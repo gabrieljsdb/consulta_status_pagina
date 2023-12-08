@@ -3,14 +3,14 @@ import smtplib
 import time
 
 # URL da página que você deseja monitorar
-url = "https://servicos.oab-sc.org.br/hbconselhos/login/loginboleto.aspx"
+url = "www.google.com.br"
 
 # Palavra-chave que você deseja verificar na página
 keyword = "Erro"
 
 # Configurações do servidor de e-mail
-email_usuario = "chamadosdti@oab-sc.org.br"  # Seu endereço de e-mail
-senha = "Oab*2023"  # Sua senha de e-mail
+email_usuario = "xxxxxxx@oab-sc.org.br"  # Seu endereço de e-mail
+senha = "xxxxxx"  # Sua senha de e-mail
 servidor_smtp = "smtp.gmail.com"  # Servidor SMTP (no exemplo, usando o Gmail)
 porta_smtp = 587  # Porta SMTP para o Gmail
 
